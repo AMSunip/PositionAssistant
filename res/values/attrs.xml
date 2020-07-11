@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+   <declare-styleable name="MyMenuItemView">
+       <attr name="ItemTitle"  format ="string"></attr> 
+       <attr name="ItemText1"  format ="string"></attr> 
+       <attr name="ItemText11"  format ="string"></attr> 
+       <attr name="ItemText2"  format ="string"></attr> 
+       <attr name="ItemText22"  format ="string"></attr> 
+       <attr name="ItemText3"  format ="string"></attr> 
+       <attr name="ItemText33"  format ="string"></attr> 
+   </declare-styleable>
+   
+   <declare-styleable name="MyMenuItemView2">
+       <attr name="Item2Title"  format ="string"></attr> 
+       <attr name="Item2Text1"  format ="string"></attr> 
+       <attr name="Item2Text2"  format ="string"></attr> 
+   </declare-styleable>
+    
+</resources>

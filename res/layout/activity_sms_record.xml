@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/theme_default">
+   <RelativeLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/titlebar_default">
+   <ImageButton 
+    android:id="@+id/imgbtn_comeback_smsrecord"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    android:contentDescription="@null"
+    android:background="@drawable/imgbtn_comeback_left"/> 
+   <TextView 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerInParent="true"
+    android:layout_marginTop="5dip"
+    android:layout_marginBottom="5dip"
+    android:textColor="#ffffff"
+    android:textSize="18sp"
+    android:text="@string/sms_record"/>
+   </RelativeLayout>   
+   <ListView
+    android:id="@+id/listview_sms_record"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:divider="@drawable/divider_default"/>  
+   <LinearLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="1dip"
+    android:background="@drawable/divider_default"/>  
+</LinearLayout>

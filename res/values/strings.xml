@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     
+    <string name="accuracy_remind">精度提醒</string>
+    <string name="accuracy_remind_title">精度提醒(m)</string>
+    <string name="accuracy_reminder_custom">自定义提醒精度(10m)</string>
+    <string name="accuracy_reminder_on">启用精度提醒</string>
+    <string name="action_settings">Settings</string>
+    <string name="amap">高德地图</string>
+    <string name="app_name">坐标助手</string>
+    
+    <string name="add_log">记录当前坐标到日志</string>
+    <string name="altitude">海拔高度(米)</string>
+    
+    <string name="cancel">取消</string>
+    <string name="contract">联系人</string>
+    <string name="contract1">联系人1</string>
+    <string name="contract11">添加联系人</string>
+    <string name="contract2">联系人2</string>
+    <string name="contract22">添加联系人</string>
+    <string name="contract3">联系人3</string>
+    <string name="contract33">添加联系人</string>
+    <string name="copy">复制</string>
+    <string name="copy_position">复制并分享坐标</string>
+    <string name="copy_to_paster">复制坐标到剪贴板</string>
+    <string name="copyright">Copyright 2013-2017 AMSunip</string>
+  
+    <string name="divider_space">空格</string>
+    <string name="divider_comma">逗号</string>
+    <string name="divider_semicolon">分号</string>
+    <string name="divider_colon">冒号</string>
+    <string name="delete">删除</string>
+    
+    <string name="edit_contract">编辑联系人</string>
+    <string name="every1s">每1s刷新一次数据(默认)</string>
+    <string name="every2s">每2s刷新一次数据</string>
+    <string name="every3s">每3s刷新一次数据</string>
+    <string name="every5s">每5s刷新一次数据</string>    
+    <string name="exit_app">退出程序</string>
+    
+    <string name="gps_setting">GPS设置</string>
+    
+    <string name="item1">item1</string>
+    <string name="item11">item11</string>
+    <string name="item2">item2</string>
+    <string name="item22">item22</string>
+    <string name="item3">item3</string>
+    <string name="item33">item33</string>
+    
+    <string name="latitude">纬度(度)</string>
+    <string name="launch_map">启动地图</string>
+    <string name="longitude">经度(度)</string>
+    
+    <string name="main_page">主界面</string>
+    <string name="message">短信</string>
+    <string name="myposition">我的位置</string>
+    
+    <string name="name">姓名</string>
+    <string name="number">号码</string>
+    
+    <string name="ok">确定</string>
+    
+    <string name="place">地点</string>
+    <string name="place_remark">地点和备注</string>
+    <string name="position_divider">坐标分隔符</string>
+    <string name="position_plus">坐标附加信息</string>
+    
+    <string name="refresh_setting">刷新设置</string>
+    <string name="remark">备注</string>
+    
+    <string name="satellite">卫星</string>
+    <string name="satellite_number">卫星数量(颗)</string>
+    <string name="satellite_accuracy">定位精度(米)</string>
+    <string name="save_setting">保存设置</string>
+    <string name="setting">设置</string>
+    <string name="send_position">一键短信发送坐标</string>
+    <string name="sms_record">短信记录</string>
+    <string name="sms_send_record">发送短信坐标记录</string>
+    
+    <string name="theme_setting">主题设置</string>
+    <string name="theme_black">炫酷黑</string>
+    <string name="theme_white">简约白</string>
+    <string name="title">title</string>
+    <string name="turn_on_off_gps">打开/关闭GPS</string>
+   
+    <string name="update_time">更新时间：2017年02月10日</string>
+    
+    <string name="version_number">版本信息：V5.0.0</string>
+    
+    <string name="wechat">微信</string>
+    
+    <string name="zero">0</string>   
+    
+</resources>
